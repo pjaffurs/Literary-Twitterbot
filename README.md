@@ -1,8 +1,9 @@
 # Literary-Twitterbot
 A Twitterbot that randomly generates first lines of novels using Markov chains. Uploaded as a proof-of-concept.
 Credit me if you want to use it as a base for your bot or some other purpose.
+Feel free to use the corpus for other first line-based projects, but credit me as well.
 
-# Requirements
+ Requirements
 1) A Twitter account with developer privileges
 
 # Instructions
